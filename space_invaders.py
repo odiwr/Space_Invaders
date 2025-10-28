@@ -109,9 +109,9 @@ diff_index = 0  # 0 = EASY, 1 = MEDIUM, 2 = HARD
 # Horizontal step size for alien block movement by difficulty.
 # This controls how FAR the invaders move left/right each "step".
 alien_move_speed_by_diff = {
-    "EASY":   3,
-    "MEDIUM": 6,
-    "HARD":   9
+    "EASY":   9,
+    "MEDIUM": 12,
+    "HARD":   15
 }
 
 # ---------------------------
