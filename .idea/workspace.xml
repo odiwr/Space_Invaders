@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c7507e-8c83-4f36-9e13-6bf43fa31952" name="Changes" comment="Updated Difficulty Scaling">
+    <list default="true" id="03c7507e-8c83-4f36-9e13-6bf43fa31952" name="Changes" comment="import">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/alien1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/alien1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space_invaders.py" beforeDir="false" afterPath="$PROJECT_DIR$/space_invaders.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +48,14 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/odiwuor/Desktop/CS Club/PyGame/Space_Invaders",
+    "last_opened_file_path": "/Users/odiwuor/Desktop/CS Club/PyGame/Space_Invaders/img",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -79,11 +82,20 @@
       <option name="project" value="LOCAL" />
       <updated>1761666659808</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="import">
+      <option name="closed" value="true" />
+      <created>1761667701309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761667701309</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Difficulty Scaling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Difficulty Scaling" />
+    <MESSAGE value="import" />
+    <option name="LAST_COMMIT_MESSAGE" value="import" />
   </component>
 </project>

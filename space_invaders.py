@@ -112,7 +112,7 @@ diff_index = 0  # 0 = EASY, 1 = MEDIUM, 2 = HARD
 alien_move_speed_by_diff = {
     "EASY":   9,
     "MEDIUM": 12,
-    "HARD":   15
+    "HARD":   30
 }
 
 # ---------------------------
