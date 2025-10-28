@@ -4,6 +4,7 @@ from pygame.locals import *
 import random
 import sys
 import pygame
+import sys
 
 # ---------------------------
 # Pygame initialization
